@@ -1,0 +1,53 @@
+.mobmenu {
+    display: none;
+}
+
+.mobmenu .mob-nav {
+    background-color: rgba(15, 23, 42, 0.9);
+    box-shadow: 1px 0 10px #fff;
+
+    position: fixed;
+    inset: 0 0 auto 0;
+    z-index: 5;
+    width: max(30%, 150px);
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mob-nav ol {
+    padding: 2rem;
+    height: 100%;
+
+}
+
+.mob-nav ol li {
+    list-style-type: decimal-leading-zero;
+    list-style-position: inside;
+    padding: 1rem;
+}
+
+.x-icon {
+    position: absolute;
+    top: 1rem;
+    right: 1rem
+}
+
+.mob-nav .social {
+    display: block;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .webmenu {
+        display: none;
+    }
+
+    .mobmenu {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}

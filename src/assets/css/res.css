@@ -1,0 +1,94 @@
+@media only screen and (max-width: 1024px) {
+    .social {
+        left: 10px;
+    }
+
+    .name {
+        right: -4.5rem;
+    }
+
+    .header {
+        padding: 0 1rem;
+    }
+
+    section,
+    #projects {
+        padding: 2rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    section,
+    #projects {
+        padding: 2rem 1rem;
+    }
+
+    .h-icons {
+        display: block;
+        font-size: larger;
+    }
+
+    /* .header nav, */
+    .p-text .about,
+    .name,
+    .social {
+        display: none;
+    }
+
+    nav ol {
+        display: block;
+        position: fixed;
+        left: 0;
+        top: 2rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
+    .me-box::after {
+        left: 1rem;
+        top: 1rem;
+    }
+
+    .tab-box {
+        display: block;
+    }
+
+    .tabs {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .tabs button {
+        border: none;
+        border-bottom: 2px solid gray;
+    }
+
+    .tabs button:disabled {
+        border: none;
+        border-bottom: 2px solid var(--color2);
+    }
+
+    .content {
+        padding: 2rem 1rem;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    section {
+        padding: 0;
+    }
+
+    .p-text .about {
+        display: none;
+    }
+
+    .tag {
+        margin: 5px;
+    }
+
+    #about:first-child p {
+        display: none;
+    }
+}

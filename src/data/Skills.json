@@ -1,0 +1,48 @@
+[
+    {
+        "type": "front-end",
+        "list": [
+            {
+                "name": "react",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            },
+            {
+                "name": "redux",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+            },
+            {
+                "name": "jquery",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+            },
+            {
+                "name": "javascript",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+            },
+            {
+                "name": "html",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+            },
+            {
+                "name": "css",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+            },
+            {
+                "name": "boostrap",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+            },
+            {
+                "name": "worpress",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
+            }
+        ]
+    },
+    {
+        "type": "back-end",
+        "list": [
+            {
+                "name": "nodejs",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            }
+        ]
+    }
+]
