@@ -1,8 +1,8 @@
 import React from 'react'
-import '../../assets/css/webmenu.css'
+import '../..//assets/css/webmenu.css'
 
-import logo from '../../assets/img/logo.png'
-import resume from '../../assets/resume/resume.pdf'
+import logo from '../..//assets/img/logo.png'
+import resume from '../..//assets/resume/resume.pdf'
 
 const Webmenu = () => {
     return (

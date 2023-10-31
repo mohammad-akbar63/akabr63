@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
-import "../../assets/css/mobmenu.css"
-import logo from '../../assets/img/logo.png'
+import "../..//assets/css/mobmenu.css"
+import logo from '../..//assets/img/logo.png'
 import { FaBarsProgress } from "react-icons/fa6";
 import { BsFillCloudDownloadFill } from "react-icons/bs";
-import resume from '../../assets/resume/resume.pdf'
+import resume from '../..//assets/resume/resume.pdf'
 import Social from './Social'
 import Aos from 'aos';
 

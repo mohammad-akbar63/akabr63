@@ -1,5 +1,5 @@
 import React from "react";
-import Img from "../../assets/img/me.jpg";
+import Img from "../..//assets/img/me.jpg";
 import SkillCard from "../cards/SkillCard";
 import AOS from 'aos';
 const About = () => {
