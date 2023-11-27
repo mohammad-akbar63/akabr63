@@ -8,9 +8,9 @@ const ProjectsCard = ({ show }) => {
     AOS.init();
     return (
 
-        data.slice(0, show).map((e) => {
+        data.slice(0, show).map((e, index) => {
             return (
-                <div className='row' key={e.id} data-aos="fade-down-right"
+                <div className='row' key={index} data-aos="fade-down-right"
                     data-aos-easing="linear">
                     <div className='col-lg-6 order-lg-1 order-2' >
                         <div className="p-text">

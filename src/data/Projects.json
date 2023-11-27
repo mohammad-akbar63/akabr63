@@ -1,6 +1,20 @@
 [
     {
         "id": 1,
+        "title": "next amazon",
+        "about": "amzone clone made by next.js. Responsive Design With google authantication any payment gateway ensure that our websites adapt seamlessly to all devices, providing an optimal experience for users across platforms. Performance Optimization: Our dedication to speed and performance guarantees that our websites load quickly and efficiently. Ongoing Support: We don't just stop at delivery; we offer post-launch support and updates to ensure our clients' websites remain in top-notch condition.",
+        "tags": [
+            "next.js",
+            "typescript",
+            "next auth",
+            "tailwind"
+        ],
+        "link": "https://next-amazon.netlify.app/",
+        "github": "https://github.com/mohammad-akbar63/next-amazon",
+        "image": "https://i.postimg.cc/c45q13dC/Screenshot-39.png"
+    },
+    {
+        "id": 1.2,
         "title": "my portfolio",
         "about": "Custom Web Development: We specialize in tailoring unique and bespoke websites that cater to the specific needs of our clients. Responsive Design: We ensure that our websites adapt seamlessly to all devices, providing an optimal experience for users across platforms. Performance Optimization: Our dedication to speed and performance guarantees that our websites load quickly and efficiently. Ongoing Support: We don't just stop at delivery; we offer post-launch support and updates to ensure our clients' websites remain in top-notch condition.",
         "tags": [
