@@ -60,6 +60,18 @@ li::marker {
     color: var(--color2);
 }
 
+li:hover {
+    color: #000;
+    transform: scale(1.2);
+    background-color: var(--color2);
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+li:hover img {
+    float: right;
+}
+
 h2 {
     font-size: 4rem;
     font-weight: bold;

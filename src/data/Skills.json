@@ -7,6 +7,10 @@
                 "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
             },
             {
+                "name": "Next.js",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+            },
+            {
                 "name": "redux",
                 "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
             },
@@ -19,12 +23,20 @@
                 "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
             },
             {
+                "name": "typescript",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            },
+            {
                 "name": "html",
                 "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
             },
             {
                 "name": "css",
                 "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+            },
+            {
+                "name": "tailwind",
+                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
             },
             {
                 "name": "boostrap",
