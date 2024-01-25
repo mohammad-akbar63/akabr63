@@ -12,7 +12,7 @@ const Contact = () => {
                 my inbox is always open. Whether you have a question or just want to say hi,
                 I'll try my best to get back to you.
             </p>
-            <a href="mailto:ma63768481@gmail.com" className="mybtn">say hello</a>
+            <a href="mailto:ma63768481@gmail.com" target="_blank" className="mybtn">say hello</a>
         </section>
     );
 };
