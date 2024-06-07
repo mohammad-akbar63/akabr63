@@ -1,60 +1,65 @@
 [
-    {
-        "type": "front-end",
-        "list": [
-            {
-                "name": "react",
-                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-            },
-            {
-                "name": "Next.js",
-                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-            },
-            {
-                "name": "redux",
-                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-            },
-            {
-                "name": "jquery",
-                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
-            },
-            {
-                "name": "javascript",
-                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-            },
-            {
-                "name": "typescript",
-                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-            },
-            {
-                "name": "html",
-                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-            },
-            {
-                "name": "css",
-                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-            },
-            {
-                "name": "tailwind",
-                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-            },
-            {
-                "name": "boostrap",
-                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-            },
-            {
-                "name": "worpress",
-                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
-            }
-        ]
-    },
-    {
-        "type": "back-end",
-        "list": [
-            {
-                "name": "nodejs",
-                "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-            }
-        ]
-    }
+  {
+    "type": "front-end",
+    "list": [
+      {
+        "name": "react",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+      },
+      {
+        "name": "Next.js",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+      },
+      {
+        "name": "redux",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
+      },
+      {
+        "name": "jquery",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"
+      },
+      {
+        "name": "javascript",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "typescript",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+      },
+      {
+        "name": "html",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+      },
+      {
+        "name": "css",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+      },
+      {
+        "name": "tailwind",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+      },
+      {
+        "name": "boostrap",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+      }
+    ]
+  },
+  {
+    "type": "back-end",
+    "list": [
+      {
+        "name": "Express.js",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+      }
+    ]
+  },
+  {
+    "type": "Database",
+    "list": [
+      {
+        "name": "Mongodb",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+      }
+    ]
+  }
 ]
