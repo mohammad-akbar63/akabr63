@@ -20,7 +20,7 @@ const Tabs = () => {
               disabled={ctab == e.id}
               onClick={handleTab}
             >
-              {e.organization.slice(0, 12)}
+              {e.organization}
             </button>
           );
         })}
